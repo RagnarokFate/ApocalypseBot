@@ -1,0 +1,33 @@
+# Commands of Apocalypse Bot
+## Channel (Voice Or Text)
+- Create Channel
+- Delete Channel
+- Edit Channel
+- Put Cooldown over channel
+## Exams
+- Create Timestop
+- Pause
+- Stop
+- Reminder (screen or voice)
+- ScreenPreview
+- Participants' Camera or Sharescreen checkout
+- Alarm Set
+- Time commands
+## Student
+- Sent to channel (until command from the same user is recieved)
+- Music (yt or soundcloud)
+- Reminder of Assignments or Exams or alarm
+- Online Cloud of Images with respect to image course content
+- Calculator
+- try to use Bing AI chat
+- try to use Bing Image Generator
+- customize messaage
+- code block
+## Admin
+- Preview Number of total usage
+- preview Number of commands overall
+- modify commands (if possible)
+- set bot's status
+## User Commands:
+- Roll (from number,to number)
+- Socials
